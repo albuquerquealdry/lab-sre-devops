@@ -1,0 +1,7 @@
+- maquina 3: monitoramento apontando para a maquina
+    -> subir grafana e prometheus e configurar monitoramento nas duas maquinas que ja existem
+
+
+
+-> subir monitoramento de kubernetes e de processos na maquina.
+-> Trace distribuido e ajuste de metricas de apm para o prometheus.
